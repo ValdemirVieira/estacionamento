@@ -1,2 +1,3 @@
 # estacionamento
- Desafio de Projeto pela DIO e Spread
+ Desafio de Projeto em TypeScript pela DIO e Spread Tecnologia!
+Construindo um sistema de estacionamento.
